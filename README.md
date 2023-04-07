@@ -17,8 +17,8 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- 여기 추가할 것 -->
 
-![ComeOnFeelTheNoise-yeah GitHub stats](https://github-readme-stats.vercel.app/api?username=ComeOnFeelTheNoise-yeah&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComeOnFeelTheNoise-yeah&hide_progress=true&theme=transparent)](https://github.com/ComeOnFeelTheNoise-yeah/github-readme-stats)
+![ComeOnFeelTheNoise-yeah GitHub stats](https://github-readme-stats.vercel.app/api?username=ComeOnFeelTheNoise-yeah&show_icons=true&theme=omni)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComeOnFeelTheNoise-yeah&hide_progress=true&theme=omni)](https://github.com/ComeOnFeelTheNoise-yeah/github-readme-stats)
 
 <!--
 **ComeOnFeelTheNoise-yeah/ComeOnFeelTheNoise-yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
