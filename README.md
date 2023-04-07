@@ -18,8 +18,7 @@
 <!-- 여기 추가할 것 -->
 
 ![ComeOnFeelTheNoise-yeah GitHub stats](https://github-readme-stats.vercel.app/api?username=ComeOnFeelTheNoise-yeah&show_icons=true&theme=buefy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComeOnFeelTheNoise-yeah&hide_progress=true&theme=buefy)](https://github.com/ComeOnFeelTheNoise-yeah/github-readme-stats)
 
 <!--
 **ComeOnFeelTheNoise-yeah/ComeOnFeelTheNoise-yeah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
