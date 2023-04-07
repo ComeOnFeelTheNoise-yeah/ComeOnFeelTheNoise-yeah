@@ -18,6 +18,7 @@
 <!-- 여기 추가할 것 -->
 
 ![ComeOnFeelTheNoise-yeah GitHub stats](https://github-readme-stats.vercel.app/api?username=ComeOnFeelTheNoise-yeah&show_icons=true&theme=buefy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComeOnFeelTheNoise&layout=compact&theme=buefy)](https://github.com/ComeOnFeelTheNoise/github-readme-stats)<br>
 
 
 <!--
