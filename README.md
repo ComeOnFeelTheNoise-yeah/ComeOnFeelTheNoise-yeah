@@ -17,7 +17,7 @@
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 <!-- 여기 추가할 것 -->
 
-        ![ComeOnFeelTheNoise-yeah GitHub stats](https://github-readme-stats.vercel.app/api?username=ComeOnFeelTheNoise-yeah&show_icons=true&theme=buefy)
+   ![ComeOnFeelTheNoise-yeah GitHub stats](https://github-readme-stats.vercel.app/api?username=ComeOnFeelTheNoise-yeah&show_icons=true&theme=buefy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ComeOnFeelTheNoise-yeah&hide_progress=true&theme=buefy)](https://github.com/ComeOnFeelTheNoise-yeah/github-readme-stats)
 
 <!--
