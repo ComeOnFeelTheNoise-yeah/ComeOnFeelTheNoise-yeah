@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 <a href="https://www.miricanvas.com/v/12p0bm5" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=500&color=CFCFCF&background=5A8CCA00&multiline=true&width=435&height=100&lines=%3E%3E+I+am+a+portfolio+(show+more...)%3C%3C" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=500&color=F73DDC&background=5A8CCA00&multiline=true&width=435&height=100&lines=%3E%3E+I+am+a+portfolio+(show+more...)%3C%3C" alt="Typing SVG" />
 </a>
 </div>
 
