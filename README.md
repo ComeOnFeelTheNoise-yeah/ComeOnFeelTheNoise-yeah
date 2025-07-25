@@ -34,4 +34,15 @@ Here are some ideas to get you started:
 -->
 
 
-<div align="center">https://www.miricanvas.com/v/12p0bm5</div>
+<div align="center">
+<a href="https://www.miricanvas.com/v/12p0bm5" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=500&color=CFCFCF&background=5A8CCA00&multiline=true&width=435&height=100&lines=%3E%3E+I+am+a+portfolio+(show+more...)%3C%3C" alt="Typing SVG" />
+</a>
+</div>
+
+<br/>
+<div align="center">
+  <a href="https://blog.naver.com/1x1x17" class="custom-link" style="text-decoration: none;">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=500&color=2DD400&background=5A8CCA00&multiline=true&width=435&height=100&lines=Click+Me!;This+is+my+blog%E2%80%94curated+for+curious+minds%2C+;open+conversations%2C+and+the+occasional+clever;+twist.+You%E2%80%99re+always+welcome+here.+:)" alt="Typing SVG" />  </a>
+</div>
+
